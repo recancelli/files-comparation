@@ -1,0 +1,21 @@
+.form-label{
+    text-align: left;
+    margin: 15px;
+    color: #6E8B49;
+    font-weight: bold;
+}
+.form-control{
+    margin: 5px;
+}
+hr{
+    height: max-content;
+    border-color:#6E8B49;
+    width:100%;
+  }
+
+h1{
+    margin-top: 3rem;
+}
+.mx-auto{
+    margin-top: 8rem;
+}
